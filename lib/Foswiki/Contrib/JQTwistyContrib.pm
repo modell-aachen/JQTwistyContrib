@@ -25,7 +25,7 @@ use warnings;
 =cut
 
 
-our $VERSION = '$Rev$';
+our $VERSION = '1.00';
 our $RELEASE = '1.00';
 our $SHORTDESCRIPTION = 'Lightweight twisty plugin';
 our $NO_PREFS_IN_TOPIC = 1;
